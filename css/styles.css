@@ -1,0 +1,31 @@
+.important{
+  font-weight: bold;
+  font-size: 40px;
+  font-style: italic;
+  line-height: 30px;
+  text-align: center;
+  color: silver;
+}
+
+html{
+  background-color: maroon;
+}
+
+.aboutme{
+  font-size: 30px;
+  font-style: italic;
+  line-height: 40px;
+  color: indianred;
+}
+
+h2{
+  text-align: center;
+  font-size: 70px;
+  color: FUCHSIA;
+}
+
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: navy;
+}
